@@ -25,12 +25,17 @@ SuperSwordster
 -Assistant Editor
 -Reverse Engineering
 
+Yuka
+-Proofreading
+-Translation editing
+
 The Fontler
 -Font engineering
 -Font injection
 
 Quality Assurance
--In progress
+-wm555
+-The unknown tester
 
 Special Thanks
 -Reowin
