@@ -35,7 +35,10 @@ The Fontler
 
 Quality Assurance
 -wm555
+-Fernand
 -The unknown tester
+-The anonymous tester
+-The tester not appearing in these credits
 
 Special Thanks
 -Reowin
