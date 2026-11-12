@@ -859,9 +859,9 @@
 1634 Done
 1635 Purchase
 1636 Sell
-1637 Total %d  Bal %d
-1638 Total %d taels Buy
-1639 Total %d taels Sell
+1637 Total: %d Balance %d
+1638 Total: %d taels Buy?
+1639 Total: %d taels Sell?
 1640 Equip?
 1641 Yes        No
 1642 Thats not enough.
@@ -954,7 +954,7 @@
 100036 [D36]
 200036 Doctor
 100037 [D37]
-200037 Daifu Nuer
+200037 Doctor's Daughter
 100038 [D38]
 200038 Doctor's Wife
 100039 [D39]
@@ -8917,7 +8917,7 @@
 500034 Li Yuan
 500035 Li Chunfeng
 500036 Doctor Yue
-500037 Daifu Nuer
+500037 Doctor's Daughter
 500038 Doctor's Wife
 500039 Zhang Lie's Attendant
 500040 Zhang Lie's Attendant
@@ -12894,7 +12894,7 @@
 504011 Owner He
 504012 [NX4012]
 504013 Traveler
-504014 Daifu Nuer
+504014 Doctor's Daughter
 504015 Xiao Shuo
 504016 Doctor's Wife
 504017 Doctor Yue
